@@ -1,16 +1,24 @@
-# fitness_app
+# Fitness App
 
-A new Flutter project.
+Fitness App is a cross-platform mobile application developed using Flutter, designed to help users maintain and improve their fitness levels through structured workout plans and progress tracking.
+
+## Features
+
+- **Workout Plans**: Access pre-set workout routines tailored for bodybuilding, weight gain, weight loss, and general fitness.
+- **Exercise Details**: Detailed instructions and steps for each exercise to ensure proper form and technique.
+- **Progress Tracking**: Monitor your workout history, track calories burned, and visualize progress over time.
+- **User Profiles**: Create and manage personal profiles to customize workout experiences.
+- **Notifications**: Receive reminders and motivational messages to stay on track with your fitness goals.
+
+## Technologies Used
+
+- **Flutter**: For building a natively compiled application for mobile platforms from a single codebase.
+- **Dart**: Programming language used in Flutter development.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/MKhalidHossain/Fitness-App.git
