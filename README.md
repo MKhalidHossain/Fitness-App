@@ -11,7 +11,6 @@ Fitness App is a cross-platform mobile application developed using Flutter, desi
 - **Notifications**: Receive reminders and motivational messages to stay on track with your fitness goals.
 
 ## Technologies Used
-
 - **Flutter**: For building a natively compiled application for mobile platforms from a single codebase.
 - **Dart**: Programming language used in Flutter development.
 
