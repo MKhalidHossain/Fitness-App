@@ -19,5 +19,6 @@ Fitness App is a cross-platform mobile application developed using Flutter, desi
 To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
+2. 
    ```bash
    git clone https://github.com/MKhalidHossain/Fitness-App.git
